@@ -1,0 +1,117 @@
+{
+  "list": {
+    "entries": [
+      {
+        "entry": {
+          "createdBy": "alfresco",
+          "creationDate": "2021-04-29T08:32:41.864+0000",
+          "lastModifiedBy": "alfresco",
+          "lastModifiedDate": "2021-03-29T08:32:57.390+0000",
+          "id": "b2520145-efb7-4485-87d7-1b2250ef4031",
+          "type": "TEMPLATE",
+          "name": "media-transcription",
+          "scope": "GLOBAL",
+          "version": "1.0.0",
+          "extensions": {
+            "title": "Audio and Video Transcription",
+            "subtitle": "Extract text automatically from audio and video files.",
+            "thumbnail": "templates/media-transcription-1.0.0/thumbnail.png",
+            "image": "templates/media-transcription-1.0.0/cover.png",
+            "complexity": "Medium",
+            "description": "Learn to extract text automatically from audio and video files. The transcription process can be triggered when a file is created in a specific folder. Transcriptions can be stored as metadata, allowing users to search content using keywords that match spoken text.",
+            "content": {
+              "url": "templates/media-transcription-1.0.0/media-transcription-1.0.0.zip",
+              "sizeInBytes": 4525,
+              "mimeType": "application/octet-stream"
+            }
+          }
+        }
+      },
+      {
+        "entry": {
+          "createdBy": "alfresco",
+          "creationDate": "2021-04-29T09:32:41.864+0000",
+          "lastModifiedBy": "alfresco",
+          "lastModifiedDate": "2021-03-29T09:32:57.390+0000",
+          "id": "b2520145-efb7-4485-87d7-1b2250ef4032",
+          "type": "TEMPLATE",
+          "name": "pii-to-security-marks",
+          "scope": "GLOBAL",
+          "version": "1.0.0",
+          "extensions": {
+            "title": "Personal Identifiable Information Detection",
+            "subtitle": "Add security marks to content that contains personal identifiable information",
+            "thumbnail": "templates/pii-to-security-marks-1.0.0/thumbnail.png",
+            "image": "templates/pii-to-security-marks-1.0.0/cover.png",
+            "complexity": "Medium",
+            "description": "Learn to detect personal identifiable information (PII) automatically. This process can be triggered when a file is created in a specific folder. When PII is detected, this application can add a security mark to restrict the access to the content to specific users.",
+            "content": {
+              "url": "templates/pii-to-security-marks-1.0.0/pii-to-security-marks-1.0.0.zip",
+              "sizeInBytes": 4525,
+              "mimeType": "application/octet-stream"
+            }
+          }
+        }
+      },
+      {
+        "entry": {
+          "createdBy": "alfresco",
+          "creationDate": "2021-04-29T08:32:41.864+0000",
+          "lastModifiedBy": "alfresco",
+          "lastModifiedDate": "2021-03-29T08:32:57.390+0000",
+          "id": "b2520145-efb7-4485-87d7-1b2250ef4033",
+          "type": "TEMPLATE",
+          "name": "email-generated-document",
+          "scope": "GLOBAL",
+          "version": "1.0.0",
+          "extensions": {
+            "title": "Document Generation and Email",
+            "subtitle": "Generate a document from a template and send it via email.",
+            "thumbnail": "templates/email-generated-document-1.0.0/thumbnail.png",
+            "image": "templates/email-generated-document-1.0.0/cover.png",
+            "complexity": "Medium",
+            "description": "Learn to use MS Word template files to generate PDF documents populating metadata introduced via forms. This document can then be sent to another user via email.",
+            "content": {
+              "url": "templates/email-generated-document-1.0.0/email-generated-document-1.0.0.zip",
+              "sizeInBytes": 4525,
+              "mimeType": "application/octet-stream"
+            }
+          }
+        }
+      },
+      {
+        "entry": {
+          "createdBy": "alfresco",
+          "creationDate": "2021-04-29T08:32:41.864+0000",
+          "lastModifiedBy": "alfresco",
+          "lastModifiedDate": "2021-03-29T08:32:57.390+0000",
+          "id": "b2520145-efb7-4485-87d7-1b2250ef4034",
+          "type": "TEMPLATE",
+          "name": "content-review-workflow",
+          "scope": "GLOBAL",
+          "version": "1.0.0",
+          "extensions": {
+            "title": "Content Review Workflow",
+            "subtitle": "Use custom actions to start a simple review workflow.",
+            "thumbnail": "templates/content-review-workflow-1.0.0/thumbnail.png",
+            "image": "templates/content-review-workflow-1.0.0/cover.png",
+            "complexity": "Medium",
+            "description": "Learn to create a custom action that starts a process. The process contains a simple review workflow that uses a custom content model to set the approval status.",
+            "content": {
+              "url": "templates/content-review-workflow-1.0.0/content-review-workflow-1.0.0.zip",
+              "sizeInBytes": 4525,
+              "mimeType": "application/octet-stream"
+            }
+          }
+        }
+      }
+    ],
+    "pagination": {
+      "skipCount": 0,
+      "maxItems": 10,
+      "count": 4,
+      "hasMoreItems": false,
+      "totalItems": 4
+    }
+  }
+}
